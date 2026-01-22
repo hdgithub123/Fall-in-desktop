@@ -13,7 +13,7 @@ Physics: Sharp, fast-moving droplets with natural gravity.
 
 Best for: Studying, Deep Work, Lofi sessions.
 
-Quick Download: RainFall.exe (Link to your Release section)
+Quick Download: RainFallDesktop.exe (Link to your Release section)
 
 2. ❄️ Snow Fall Desktop
 A romantic and magical snow effect that brings a winter wonderland to your screen.
@@ -22,10 +22,10 @@ Physics: Floating snowflakes with a horizontal "swing" (sin-wave) motion to simu
 
 Best for: Desktop decoration, Holiday vibes, Relaxation.
 
-Quick Download: Snowy.exe (Link to your Release section)
+Quick Download: SnowFallDesktop.exe (Link to your Release section)
 
 ✨ Key Features
-Ultra Lightweight: High-performance GDI+ rendering (uses < 1% CPU/RAM).
+Ultra Lightweight: High-performance GDI+ rendering (uses < 6% CPU/RAM).
 
 Highly Customizable: * Density: From a light drizzle to a heavy storm/blizzard.
 
