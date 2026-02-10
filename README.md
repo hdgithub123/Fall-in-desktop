@@ -1,3 +1,27 @@
+🌸 Vietnamese Lunar New Year Desktop 🧧
+Vietnamese Lunar New Year Desktop (Tết Việt Nam Desktop) is a lightweight, open-source portable application designed to bring the festive spirit of the traditional Vietnamese Tet holiday directly to your workspace. It decorates your screen with beautiful dynamic effects without interfering with your productivity.
+<img width="1640" height="769" alt="image" src="https://github.com/user-attachments/assets/cb8b4052-cafa-49be-aa18-597373015e81" />
+<img width="1641" height="768" alt="image" src="https://github.com/user-attachments/assets/42843242-0a94-420e-bd69-664840c1a6fe" />
+
+
+
+
+✨ Key Features
+Dynamic Flower Effects: Smoothly falling Cherry Blossoms (Hoa Đào) or Ochna (Hoa Mai) with customizable wind physics.
+
+Lucky Lanterns: Display animated lantern strings (up to 5 strings) that sway gently on your desktop.
+
+Iconic Tet Symbols: Option to display traditional trees (Peach or Apricot) and firecrackers at the corners of your screen.
+
+Bilingual Support: Fully localized in both English and Vietnamese.
+
+Advanced Customization: Use an intuitive settings panel to adjust FPS, flower count, wind speed, and the number of lantern strings.
+
+Ultra-Lightweight & Portable: Built as a single .exe file—no installation required, no registry clutter.
+
+
+
+
 🌦️ Desktop Atmosphere Collection: Rain & Snow ❄️
 A lightweight collection of ambient weather effects for your Windows desktop.
 
