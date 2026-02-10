@@ -356,8 +356,8 @@ namespace TetHolidayApp
             tray.Text = "Tết Việt Nam / Viet Nam Tet Holiday";
 
             ContextMenuStrip menu = new ContextMenuStrip();
-            menu.Items.Add("Cài đặt", null, (s, e) => configWindow.Show());
-            menu.Items.Add("Thoát", null, (s, e) => Application.Exit());
+            menu.Items.Add("Cài đặt / Setting", null, (s, e) => configWindow.Show());
+            menu.Items.Add("Thoát / Exit", null, (s, e) => Application.Exit());
             menu.Items.Add("-"); // Dấu gạch ngang phân cách
             // 1. Thêm mục Giới thiệu (Mới)
             menu.Items.Add("Giới thiệu / About", null, (s, e) => ShowAboutDialog());
@@ -555,7 +555,7 @@ namespace TetHolidayApp
             AddComboItem(grid, "Hiển thị tràng pháo / Show Firecrackers",
                 new string[] { "Bật / On", "Tắt / Off" },
                 AppConfig.IsShowFirework ? "Bật / On" : "Tắt / Off",
-                s => AppConfig.IsShowFirework = (s == "Bật / On"));
+                s => AppConfig.IsShowFirework = s.Contains("Bật")); // Sửa lại ở đây
 
             AddCheckbox(grid, "Hiện trên cả cửa sổ đang mở / Show above all open windows", AppConfig.AlwaysOnTop, delegate (bool b)
                     {
