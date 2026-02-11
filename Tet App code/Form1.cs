@@ -29,7 +29,7 @@ namespace TetHolidayApp
         // ... các cấu hình khác ...
         public static int CheDoLongDen = 0; // Mặc định là 0 (Tắt)
         
-        public static double otherRate = 0.01; // Tương đương 1% AppConfig.otherRate
+        public static double otherRate = 0.001; // Tương đương 0.1% AppConfig.otherRate
 
     }
 
